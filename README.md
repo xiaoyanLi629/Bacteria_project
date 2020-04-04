@@ -4,3 +4,4 @@
 1. Training data and testing data, training label and testing label were uploaded to google drive.
 2. Link: https://drive.google.com/open?id=1V9rIgpgWcP1NnmiM10p6w8WfQGGMk2om
 ![](Images/001.jpg)
+<img src="Images/001.jpg" width="100">
